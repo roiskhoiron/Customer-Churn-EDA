@@ -77,4 +77,4 @@ Setelah preprocessing selesai, file berikut tersedia di `preprocessing/namadatas
 | `y_test.csv` | Label testing |
 | `scaler.pkl` | StandardScaler untuk inference |
 
-File-file ini digunakan oleh **Kriteria 2 (modelling.py)** dan **Kriteria 3 (MLOps CI)**.
+File-file ini digunakan untuk **Kriteria 2 (modelling.py)** dan **Kriteria 3 (MLOps CI)**.

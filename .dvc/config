@@ -2,6 +2,7 @@
     remote = dagshub
     autostage = true
 ['remote "dagshub"']
-    url = https://dagshub.com/roiskhoiron/Customer-Churn-EDA
+    url = https://dagshub.com/roiskhoiron/Customer-Churn-EDA.dvc
     auth = basic
     user = roiskhoiron
+    password = 72ea8c5251856c29972ca84a12ff422323986208
