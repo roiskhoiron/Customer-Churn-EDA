@@ -35,9 +35,14 @@ git clone https://github.com/roiskhoiron/Customer-Churn-EDA.git
 cd Customer-Churn-EDA
 ```
 
-### 2. Install dependencies
-```bash
+### 2. Install dependencies (runtime)
+```
 pip install -r requirements.txt
+```
+
+### 2a. Install development dependencies (untuk notebook & visualisasi)
+```
+pip install -r requirements-dev.txt
 ```
 
 ### 3. Jalankan notebook (eksplorasi manual)

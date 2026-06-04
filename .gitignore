@@ -1,1 +1,5 @@
 .venv/*
+.DS_Store
+.ipython/
+.ipynb_checkpoints/
+preprocessing/.ipynb_checkpoints/
