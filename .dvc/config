@@ -1,7 +1,7 @@
 [core]
     remote = dagshub
 ['remote "dagshub"']
-    url = https://dagshub.com/roiskhoiron/Customer-Churn-Prediction-System.dvc
+    url = https://dagshub.com/roiskhoiron/Customer-Churn-EDA
     auth = basic
     user = roiskhoiron
     password = 72ea8c5251856c29972ca84a12ff422323986208
